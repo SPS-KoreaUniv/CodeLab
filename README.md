@@ -26,6 +26,7 @@ Teacher-Student
 
 # Computer Vision
 ### 1. Anomaly Detection
+[Real_3D-AD]()
 ### 2. Classification
 ### 3. Object Detection
 ### 4. Segmentation
