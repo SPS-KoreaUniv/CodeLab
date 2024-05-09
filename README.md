@@ -15,13 +15,13 @@ SPS code study (2024.05.09 ~ )
 This repository is for reviewing and implementing AI paper code for study.
 
 # Time Series
-**Anomaly Detection**
-1. Unsupervised
-   1. Reconstruction-Based Methods
-**Classification**
-**Forecasting**
-**Representation**
-**Multi-modal**
+## 1. Anomaly Detection
+### 1.1 Unsupervised
+#### 1.1.1 Reconstruction-Based Methods
+#### 1.1.2 Teacher-Student
+## 2. Classification
+## 3. Forecasting
+## 4. Multi-modal
 
 
 # Computer Vision
