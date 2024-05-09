@@ -16,9 +16,9 @@ This repository is for reviewing and implementing AI paper code for study.
 
 # Time Series
 ### 1. Anomaly Detection
-* Unsupervised  
-- Reconstruction-Based Methods  
-- Teacher-Student  
+* Unsupervised
+Reconstruction-Based Methods  
+Teacher-Student  
 ### 2. Classification
 ### 3. Forecasting
 ### 4. Multi-modal
@@ -27,8 +27,8 @@ This repository is for reviewing and implementing AI paper code for study.
 # Computer Vision
 ### 1. Anomaly Detection
 ### 2. Classification
-### 3. Segmentation
-### 4. 
+### 3. Object Detection
+### 4. Segmentation
 
 # Natural Language Processing
 **Classification**
