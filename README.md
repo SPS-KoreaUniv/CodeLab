@@ -16,7 +16,7 @@ This repository is for reviewing and implementing AI paper code for study.
 
 # Time Series
 ### 1. Anomaly Detection
-* Unsupervised  
+### Unsupervised  
 - Reconstruction-Based Methods  
 - Teacher-Student  
 ### 2. Classification
