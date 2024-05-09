@@ -48,6 +48,6 @@ Teacher-Student
 <table>
   <tr>
     <td align="center"><a href="https://github.com/YUL-git"><img src="https://avatars.githubusercontent.com/u/89930713?v=4" width="200px;" alt="teammember2"/><br /><h3><b><a href="https://github.com/YUL-git">함지율</b></h3></a><br /></td>
-    <td align="center"><a href="https://github.com/dbnub"><img src="https://avatars.githubusercontent.com/u/99518647?v=4" width="200px;" alt="teammember1"/><br /><h3><b><a href="https://github.com/dbnub">coby</b></h3></a><br /></td>
+    <td align="center"><a href="https://github.com/dbnub"><img src="https://avatars.githubusercontent.com/u/99518647?v=4" width="200px;" alt="teammember1"/><br /><h3><b><a href="https://github.com/dbnub">유건혁</b></h3></a><br /></td>
   </tr>
 <table>
